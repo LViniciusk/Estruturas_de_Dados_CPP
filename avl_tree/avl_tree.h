@@ -1,7 +1,3 @@
-// Author: Kauan Pablo de Sousa Silva
-// GitHub: github.com/auanK
-// Email: kauanpablo089@gmail.com
-
 #pragma once
 
 #include <iostream>
