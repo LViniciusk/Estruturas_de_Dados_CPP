@@ -1,7 +1,3 @@
-// Author: Kauan Pablo de Sousa Silva
-// GitHub: github.com/auanK
-// Email: kauanpablo089@gmail.com
-
 #include <cmath>
 #include <functional>
 #include <iostream>
